@@ -10,7 +10,7 @@
 ;;;
 ;;; Author: Werner Fink, <feedback@suse.de> 1997,98,99,2002
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;
+;;; TEST
 ;;; Test of Emacs derivates
 ;;; -----------------------
 (if (string-match "XEmacs\\|Lucid" emacs-version)
